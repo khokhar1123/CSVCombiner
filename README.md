@@ -1,4 +1,4 @@
-Mohammad Umar mumar2@hawk.iit.edu This is my submission for the task
+Mohammad Umar. This is my submission for the task
 
 It is a csv combinator. It has two additonal csv files file1.csv and file2.csv that are used for testing pruposes.
 
